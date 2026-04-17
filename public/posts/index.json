@@ -38,5 +38,21 @@
     "date": "2026-04-17",
     "image": "https://ecorrestechnologies.sharepoint.com/sites/DeveloperSpace-N8N/Shared%20Documents/N8N/LinkedinPostImages_Sample/Datascience.jpg",
     "excerpt": "How SharePoint, n8n, and Microsoft Graph work together for publishing."
+  },
+  {
+    "id": 6,
+    "slug": "sample-blog-post-tes4",
+    "title": "Sample Blog Post tes4",
+    "date": "2026-04-17",
+    "image": "https://ecorrestechnologies.sharepoint.com/sites/DeveloperSpace-N8N/Shared%20Documents/N8N/LinkedinPostImages_Sample/Datascience.jpg",
+    "excerpt": "Short summary of the sample blog post for testing the feed and website."
+  },
+  {
+    "id": 7,
+    "slug": "ai-automation2",
+    "title": "AI Automation2",
+    "date": "2026-04-17",
+    "image": "https://ecorrestechnologies.sharepoint.com/sites/DeveloperSpace-N8N/Shared%20Documents/N8N/LinkedinPostImages_Sample/Datascience.jpg",
+    "excerpt": "How SharePoint, n8n, and Microsoft Graph work together for publishing."
   }
 ]
