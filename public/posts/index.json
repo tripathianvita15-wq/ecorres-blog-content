@@ -14,5 +14,13 @@
     "date": "2026-04-17",
     "image": "https://ecorrestechnologies.sharepoint.com/sites/DeveloperSpace-N8N/Shared%20Documents/N8N/LinkedinPostImages_Sample/Datascience.jpg",
     "excerpt": "How SharePoint, n8n, and Microsoft Graph work together for publishing."
+  },
+  {
+    "id": 3,
+    "slug": "sample-blog-post-tes6",
+    "title": "Sample Blog Post tes6",
+    "date": "2026-04-17",
+    "image": "https://ecorrestechnologies.sharepoint.com/sites/DeveloperSpace-N8N/Shared%20Documents/N8N/LinkedinPostImages_Sample/Datascience.jpg",
+    "excerpt": "Short summary of the sample blog post for testing the feed and website."
   }
 ]
