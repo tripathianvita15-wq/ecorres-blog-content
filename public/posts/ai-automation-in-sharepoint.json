@@ -1,0 +1,9 @@
+{
+  "id": 2,
+  "slug": "ai-automation-in-sharepoint",
+  "title": "AI Automation in SharePoint",
+  "date": "2026-04-17",
+  "image": "https://ecorrestechnologies.sharepoint.com/sites/DeveloperSpace-N8N/Shared%20Documents/N8N/LinkedinPostImages_Sample/Datascience.jpg",
+  "excerpt": "How SharePoint, n8n, and Microsoft Graph work together for publishing.",
+  "content": "<p>This article explains how to automate blog publishing using SharePoint, Microsoft Graph, and n8n.</p><ul><li>Read blog data</li><li>Generate JSON</li><li>Create RSS</li></ul>"
+}
