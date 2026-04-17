@@ -1,1 +1,50 @@
-[]
+[
+  {
+    "id": 2,
+    "slug": "ai-automation-in-sharepoint",
+    "title": "AI Automation in SharePoint",
+    "date": "2026-04-15",
+    "image": "/images/ai-automation-in-sharepoint.jpg",
+    "excerpt": "How SharePoint, n8n, and Microsoft Graph work together for publishing."
+  },
+  {
+    "id": 3,
+    "slug": "rssxm",
+    "title": "Building RSSXM from JSON",
+    "date": "2026-04-15",
+    "image": "/images/rssxm.jpg",
+    "excerpt": "Turn your JSON feed into RSS for external distribution."
+  },
+  {
+    "id": 1,
+    "slug": "sample-blog-post-test4",
+    "title": "Sample Blog Post test4",
+    "date": "2026-04-14",
+    "image": "/images/sample-blog-post-test4.jpg",
+    "excerpt": "Short summary of the sample blog post for testing the feed and website."
+  },
+  {
+    "id": 3,
+    "slug": "building-rss-from-json",
+    "title": "Building RSS from JSON",
+    "date": "2026-04-05",
+    "image": "/images/building-rss-from-json.jpg",
+    "excerpt": "Turn your JSON feed into RSS for external distribution."
+  },
+  {
+    "id": 2,
+    "slug": "ai-automation-in-sharepoint",
+    "title": "AI Automation in SharePoint",
+    "date": "2026-04-02",
+    "image": "/images/ai-automation-in-sharepoint.jpg",
+    "excerpt": "How SharePoint, n8n, and Microsoft Graph work together for publishing."
+  },
+  {
+    "id": 1,
+    "slug": "sample-post",
+    "title": "Sample Blog Post",
+    "date": "2026-03-30",
+    "image": "/images/sample-post.jpg",
+    "excerpt": "Short summary of the sample blog post for testing the feed and website."
+  }
+]
