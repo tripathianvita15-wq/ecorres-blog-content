@@ -1,0 +1,9 @@
+{
+  "id": 24,
+  "slug": "xml",
+  "title": "Building RSS",
+  "date": "2026-04-20",
+  "image": "https://ecorrestechnologies.sharepoint.com/sites/DeveloperSpace-N8N/Shared%20Documents/N8N/LinkedinPostImages_Sample/Datascience.jpg",
+  "excerpt": "Turn your JSON feed into RSS for external distribution.",
+  "content": "<p>This post shows how a JSON blog feed can be transformed into an RSS XML feed for GoDaddy or other syndication platforms.</p>"
+}
