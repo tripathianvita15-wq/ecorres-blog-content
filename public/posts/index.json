@@ -30,5 +30,13 @@
     "date": "2026-04-20",
     "image": "https://ecorrestechnologies.sharepoint.com/sites/DeveloperSpace-N8N/Shared%20Documents/N8N/LinkedinPostImages_Sample/Datascience.jpg",
     "excerpt": "How SharePoint, n8n, and Microsoft Graph work together for publishing."
+  },
+  {
+    "id": 25,
+    "slug": "xml",
+    "title": "Building RSS",
+    "date": "2026-04-20",
+    "image": "https://ecorrestechnologies.sharepoint.com/sites/DeveloperSpace-N8N/Shared%20Documents/N8N/LinkedinPostImages_Sample/Datascience.jpg",
+    "excerpt": "Turn your JSON feed into RSS for external distribution.For more info go to https://ecorres.ai/blog/xml"
   }
 ]
