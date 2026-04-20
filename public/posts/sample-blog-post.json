@@ -1,0 +1,9 @@
+{
+  "id": 18,
+  "slug": "sample-blog-post",
+  "title": "Sample Blog Post te",
+  "date": "2026-04-20",
+  "image": "https://ecorrestechnologies.sharepoint.com/sites/DeveloperSpace-N8N/Shared%20Documents/N8N/LinkedinPostImages_Sample/Datascience.jpg",
+  "excerpt": "Short summary of the sample blog post for testing the feed and website.",
+  "content": "<p>This is a sample blog post used to test the React site, JSON feed, and RSS generation.</p><p>It includes basic HTML content and a public image URL.</p>"
+}
