@@ -1,5 +1,21 @@
 [
   {
+    "id": 14,
+    "slug": "sample-blog-post-te",
+    "title": "Sample Blog Post te",
+    "date": "2026-04-20",
+    "image": "https://ecorrestechnologies.sharepoint.com/sites/DeveloperSpace-N8N/Shared%20Documents/N8N/LinkedinPostImages_Sample/Datascience.jpg",
+    "excerpt": "Short summary of the sample blog post for testing the feed and website."
+  },
+  {
+    "id": 15,
+    "slug": "ai-automation6",
+    "title": "AI Automation6",
+    "date": "2026-04-20",
+    "image": "https://ecorrestechnologies.sharepoint.com/sites/DeveloperSpace-N8N/Shared%20Documents/N8N/LinkedinPostImages_Sample/Datascience.jpg",
+    "excerpt": "How SharePoint, n8n, and Microsoft Graph work together for publishing."
+  },
+  {
     "id": 1,
     "slug": "sample-blog-post-tes7",
     "title": "Sample Blog Post tes7",
