@@ -1,18 +1,1 @@
-[
-  {
-    "id": 30,
-    "slug": "xmlrs",
-    "title": "Building RSS",
-    "date": "2026-04-20",
-    "image": "https://ecorrestechnologies.sharepoint.com/sites/DeveloperSpace-N8N/Shared%20Documents/N8N/LinkedinPostImages_Sample/Datascience.jpg",
-    "excerpt": "Turn your JSON feed into RSS for external distribution."
-  },
-  {
-    "id": 32,
-    "slug": "xmlr1",
-    "title": "Building RSS",
-    "date": "2026-04-20",
-    "image": "https://ecorrestechnologies.sharepoint.com/sites/DeveloperSpace-N8N/Shared%20Documents/N8N/LinkedinPostImages_Sample/Datascience.jpg",
-    "excerpt": "Turn your JSON feed into RSS for external distribution."
-  }
-]
+[]
