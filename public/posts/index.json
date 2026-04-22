@@ -1,5 +1,13 @@
 [
   {
+    "id": 36,
+    "slug": "xmlr3",
+    "title": "Building RSS1",
+    "date": "2026-04-22",
+    "image": "https://ecorrestechnologies.sharepoint.com/sites/DeveloperSpace-N8N/Shared%20Documents/N8N/LinkedinPostImages_Sample/Datascience.jpg",
+    "excerpt": "Turn your JSON feed into RSS for external distribution."
+  },
+  {
     "id": 34,
     "slug": "xmlr2",
     "title": "Building RSS",
