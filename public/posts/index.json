@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "id": 38,
+    "slug": "xmlr5",
+    "title": "Building RSS3",
+    "date": "2026-04-22",
+    "image": "https://ecorrestechnologies.sharepoint.com/sites/DeveloperSpace-N8N/Shared%20Documents/N8N/LinkedinPostImages_Sample/Datascience.jpg",
+    "excerpt": "Turn your JSON feed into RSS for external distribution."
+  }
+]
