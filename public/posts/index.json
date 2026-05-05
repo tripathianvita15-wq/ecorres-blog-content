@@ -1,5 +1,13 @@
 [
   {
+    "id": 22,
+    "slug": "sample-blog-p",
+    "title": "Sample Blog Pos",
+    "date": "2026-05-05",
+    "image": "https://ecorrestechnologies.sharepoint.com/sites/DeveloperSpace-N8N/Shared%20Documents/N8N/LinkedinPostImages_Sample/Datascience.jpg",
+    "excerpt": "Short summary of the sample blog post for testing the feed and website."
+  },
+  {
     "id": 38,
     "slug": "xmlr5",
     "title": "Building RSS3",
