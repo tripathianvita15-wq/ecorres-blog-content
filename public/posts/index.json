@@ -1,13 +1,5 @@
 [
   {
-    "id": 59,
-    "slug": "sample-testing-blog-june59",
-    "title": "sample-testing-blog-june59",
-    "date": "2026-05-07",
-    "image": "/images/dev1.jpg",
-    "excerpt": "Short summary of the sample blog post for testing the feed and website."
-  },
-  {
     "id": 60,
     "slug": "sample-testing-blog-june60",
     "title": "sample-testing-blog-june60",
