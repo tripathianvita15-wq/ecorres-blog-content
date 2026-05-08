@@ -8,6 +8,14 @@
     "excerpt": "Short summary of the sample blog post for testing the feed and website."
   },
   {
+    "id": 73,
+    "slug": "sample-testing-blog-june73",
+    "title": "sample-testing-blog-june73",
+    "date": "2026-05-08",
+    "image": "/images/dev1.jpg",
+    "excerpt": "Short summary of the sample blog post for testing the feed and website."
+  },
+  {
     "id": 60,
     "slug": "sample-testing-blog-june60",
     "title": "sample-testing-blog-june60",
