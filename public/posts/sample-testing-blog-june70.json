@@ -1,0 +1,9 @@
+{
+  "id": 70,
+  "slug": "sample-testing-blog-june70",
+  "title": "sample-testing-blog-june59",
+  "date": "2026-05-07",
+  "image": "/images/dev1.jpg",
+  "excerpt": "Short summary of the sample blog post for testing the feed and website.",
+  "content": "<p>This is a sample blog post used to test the React site, JSON feed, and RSS generation.</p><p>It includes basic HTML content and a public image URL.</p>"
+}
