@@ -1,18 +1,1 @@
-[
-  {
-    "id": 101,
-    "slug": "sample-testing-blog-june101",
-    "title": "sample-testing-blog-june101",
-    "date": "2026-05-18",
-    "image": "/images/dev1.jpg",
-    "excerpt": "Short summary of the sample blog post for testing the feed and website."
-  },
-  {
-    "id": 92,
-    "slug": "sample-testing-blog-june92",
-    "title": "sample-testing-blog-june92",
-    "date": "2026-05-15",
-    "image": "/images/dev1.jpg",
-    "excerpt": "Short summary of the sample blog post for testing the feed and website."
-  }
-]
+[]
