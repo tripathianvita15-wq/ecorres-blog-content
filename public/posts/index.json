@@ -1,5 +1,13 @@
 [
   {
+    "id": 101,
+    "slug": "sample-post-test101",
+    "title": "Sample Blog Post Test101",
+    "date": "2026-07-06",
+    "image": "",
+    "excerpt": "This is a short summary of the post, shown in the blog list view."
+  },
+  {
     "id": 13,
     "slug": "optimizing-business-operations-through-effective-ccm",
     "title": "Optimizing Business Operations Through Effective CCM",
