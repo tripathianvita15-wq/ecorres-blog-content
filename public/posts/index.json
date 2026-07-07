@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "id": 105,
+    "slug": "sample-post-test105",
+    "title": "Sample Blog Post Test105",
+    "date": "2026-07-07",
+    "image": "",
+    "excerpt": "This is a short summary of the post, shown in the blog list view."
+  }
+]
