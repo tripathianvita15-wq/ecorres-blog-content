@@ -1,0 +1,9 @@
+{
+  "id": 108,
+  "slug": "sample-post-test108",
+  "title": "Sample Blog Post Test108",
+  "date": "2026-07-08",
+  "image": "/images/sample-post-test108.png",
+  "excerpt": "This is a short summary of the post, shown in the blog list view. update",
+  "content": "<p>Updated content This is the full HTML content of the post. It can include headings, paragraphs, links, and more.</p>"
+}
